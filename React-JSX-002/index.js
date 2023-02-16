@@ -1,5 +1,5 @@
 const airbnb = <div className="container">
-    <h1>The Evolution of Airbnb's Frontend</h1>
+    <h1>The Evolution of<br/> Airbnb's Frontend</h1>
     <div className="logocont">
         <p>@spikebrehum</p>
         <div class="logo">
